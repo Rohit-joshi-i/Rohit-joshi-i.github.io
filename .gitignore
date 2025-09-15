@@ -1,5 +1,4 @@
 # Miscellaneous
-.gitignore
 *.class
 *.log
 *.pyc
@@ -50,7 +49,6 @@ app.*.map.json
 /linux/
 /macos/
 /test/
-/web/
 /web/
 .metadata
 analysis_options.yaml
