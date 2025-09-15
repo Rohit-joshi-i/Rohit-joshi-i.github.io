@@ -1,4 +1,5 @@
 # Miscellaneous
+.gitignore
 *.class
 *.log
 *.pyc
@@ -43,3 +44,15 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+/android/
+/ios/
+/lib/
+/linux/
+/macos/
+/test/
+/web/
+/web/
+.metadata
+analysis_options.yaml
+pubspec.lock
+pubspec.yaml
